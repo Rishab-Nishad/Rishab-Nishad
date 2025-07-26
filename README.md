@@ -49,13 +49,13 @@ Built a multi-agent system to automate workflows and daily productivity tasks.
 
 ## 📈 GitHub Stats
 
-![Rishab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Rishab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishab-nishad&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-url)  
+- [LinkedIn](https://www.linkedin.com/in/rishabnishad)  
 - [Email](mailto:rishabnishad22@gmail.com)
 
 ---
